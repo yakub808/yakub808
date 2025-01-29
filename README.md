@@ -1,5 +1,9 @@
-## loading...
-
+# loading...
+<!--
+# Hello!
+My name is Jacob and I am an architect working on space habitat modules.
+Currently learning Python and C.
+-->
 <!--
 **yakub808/yakub808** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

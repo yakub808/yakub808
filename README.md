@@ -1,12 +1,12 @@
-Hello!
-My name is Yakub, I am an architect specializing on space habitat modules.
-Last year I've started my journey throughout the world of computer science.
-Currently learning Python and C languge, exploring how coding can enhance space design and 3D modeling. 
+Hello!  
+My name is Yakub, I am an architect specializing in space habitat modules.  
+Last year I started my journey throughout the world of computer science.  
+Currently learning Python and C language, exploring how coding can enhance space design and 3D modeling.  
 Any tips and advice much appreciated!
 
-🛸 explore my space projects: https://www.artstation.com/mr_yakub
-🖥️ check out my channel: https://www.youtube.com/@enter_the_void_eu
-📡 feel free to contact in case of possible collaboration
+🛸 explore my space projects: https://www.artstation.com/mr_yakub  
+🖥️ check out my channel: https://www.youtube.com/@enter_the_void_eu  
+📡 feel free to contact in case of possible collaboration  
 
 if you enjoy my work and want to support me on my path:
 [Ko-Fi](https://ko-fi.com/jakubpietryszyn)

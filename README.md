@@ -1,5 +1,5 @@
 Hello!  
-My name is Yakub, I am an architect specializing in space habitat modules.  
+My name is Jakub, I am an architect specializing in space habitat modules.  
 Last year I started my journey throughout the world of computer science.  
 Currently learning Python and C language, exploring how coding can enhance space design and 3D modeling.  
 Any tips and advice much appreciated!

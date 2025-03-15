@@ -1,14 +1,16 @@
 loading...
 <!--
-Hello everyone!
-My name is Yakub and I am an architect working on space habitat modules.
+Hello!
+My name is Yakub, I am an architect working on space habitat modules.
 Last year I've started my journey throughout the world of computer science.
 Currently learning Python and C languge. Any hints and tips much appreciated!
 
 🛸 check out my space projects here: https://www.artstation.com/mr_yakub
 🖥️ here you can find some of my animations: https://www.youtube.com/@enter_the_void_eu
-
 📡 feel free to contact in case of possible collaboration
+
+if you like my work and would like to support me on my path:
+KO-FI
 
 -->
 <!--

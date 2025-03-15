@@ -1,5 +1,3 @@
-loading...
-<!--
 Hello!
 My name is Yakub, I am an architect specializing on space habitat modules.
 Last year I've started my journey throughout the world of computer science.
@@ -13,7 +11,6 @@ Any tips and advice much appreciated!
 if you enjoy my work and want to support me on my path:
 [Ko-Fi](https://ko-fi.com/jakubpietryszyn)
 
--->
 <!--
 **yakub808/yakub808** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

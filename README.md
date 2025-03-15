@@ -4,8 +4,8 @@ Last year I started my journey throughout the world of computer science.
 Currently learning Python and C language, exploring how coding can enhance space design and 3D modeling.  
 Any tips and advice much appreciated!
 
-🛸 explore my space projects: https://www.artstation.com/mr_yakub  
-🖥️ check out my channel: https://www.youtube.com/@enter_the_void_eu  
+🛸 explore my space projects: [jakub pietryszyn](https://www.artstation.com/mr_yakub)  
+🖥️ check out my channel: [enter the void](https://www.youtube.com/@enter_the_void_eu)  
 📡 feel free to contact in case of possible collaboration  
 
 if you enjoy my work and want to support me on my path:

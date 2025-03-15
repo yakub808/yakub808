@@ -11,7 +11,7 @@ Any tips and advice much appreciated!
 📡 feel free to contact in case of possible collaboration
 
 if you enjoy my work and want to support me on my path:
-KO-FI
+[Ko-Fi](https://ko-fi.com/jakubpietryszyn)
 
 -->
 <!--
